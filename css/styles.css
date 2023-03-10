@@ -154,7 +154,7 @@ html.body{
   }
 
   .home{
-    background:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),url(/media/images/breakfast.jpg);
+    background:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),url(./media/images/breakfast.jpg);
     min-height: 90vh;
     background-repeat: no-repeat;
     background-size: cover;
